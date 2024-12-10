@@ -24,7 +24,7 @@
 ![image25](https://github.com/user-attachments/assets/b89b837d-3395-43b3-9ee7-7da2e1b94e00)
 
 # 결과 
-API의 RETURN 값으로 AWS S3에 저장된 이미지 URL 값이 리턴된다.
+API의 RETURN 값으로 AWS S3에 저장된 이미지 URL 값이 리턴됩니다.
 
 ![image26](https://github.com/user-attachments/assets/6251a6e4-7e3f-4d46-859b-351f6bf89093)
 
