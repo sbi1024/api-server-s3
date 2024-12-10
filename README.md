@@ -2,7 +2,7 @@
 없음
 
 # 개요
-[[aws] s3를 통해 파일 및 이미지 업로드 해보기](https://sbi1024.github.io/devops/aws/6) 블로그의 게시글에서 sample로 제공되는 프로젝트 입니다.
+[[aws] s3를 통해 파일 및 이미지 업로드 해보기 (feat. spring boot)](https://sbi1024.github.io/devops/aws/6) 블로그의 게시글에서 sample로 제공되는 프로젝트 입니다.
 
 # 관련 블로그 글
 [[aws] s3를 통해 파일 및 이미지 업로드 해보기 (feat. spring boot)](https://sbi1024.github.io/devops/aws/6)
